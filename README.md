@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[image_url](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dpd6csiVxefXVbRFEfobUECiQW1rEFFo3vTn46Ncjw&s)">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dpd6csiVxefXVbRFEfobUECiQW1rEFFo3vTn46Ncjw&s">
   Colin Skow
 </p>
 
